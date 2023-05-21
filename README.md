@@ -16,7 +16,7 @@ MobileNet: https://drive.google.com/file/d/1fUmDLZaEoE92m9VwuCpcirRrH9VAPa0Y/vie
 InceptionNet: https://drive.google.com/file/d/1hL80bKFaQS4QSVhLir351uY3fu8dCKPv/view?usp=sharing,
 ResNet: https://drive.google.com/file/d/1wDHLEmlJeAQlrDYylf8A72qemkBry3jK/view?usp=sharing
 
-To train the model for masked face recognition, you need to:
+To produce the result present in our paper, you need to:
 
 1 cd add_mask_dataset_generation
 
