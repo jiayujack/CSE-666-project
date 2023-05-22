@@ -1,6 +1,8 @@
 # CSE-666-project
 This is the official implementation for MMEFace: Multi Model Ensemble learning for masked Face recogniti, which serves as final project for 2023 Spring CSE 666 course.
 
+Our presentation slides can be found at:https://docs.google.com/presentation/d/19fWdYpEYsqADUVlaaAtgxd1jBGpHGdlckR4PzneMoas/edit?usp=sharing
+
 Face recognition is a research topic of significant importance in both academia and industry, encompassing a wide range of applications. Despite the remarkable success of deep learning algorithms in face recognition, the identification of occluded faces remains a challenging issue that demands attention. This paper presents a novel occluded face recognition system utilizing both real-world and artificially generated occluded face images. We conduct a comparative analysis of five distinct vision deep learning models and employ model ensemble techniques to leverage the strengths of each model while mitigating their weaknesses. Our approach achieves an accuracy of 84.07 percent, surpassing the previous state-of-the-art performance of 60.80 percent.
 
 To generate the images for training and validation, you need to:
