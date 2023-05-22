@@ -12,6 +12,8 @@ Extract the file and move the folder ./AFDB_face_dataset under ./self-built-mask
 
 2 run ./wear_mask_to_face/add_mask_dataset_generation.ipynb. This step manually wear masks on face images and creates a folder add_mask_face_dataset under ./self-built-masked-face-recognition.
 
+Reference: https://github.com/Amoswish/wear_mask_to_face
+
 This process might take a long time, the preprocessed dataset is available at:
 
 Densenet: https://drive.google.com/file/d/1V7Y9dFA1RylH_OhLHwnMFjb3j9H9-mjt/view?usp=sharing, 
