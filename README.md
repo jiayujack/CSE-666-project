@@ -1,4 +1,4 @@
-# Jiayu1in_xuepingleng_final_project
+# Jiayuqin_xuepingleng_final_project
 This is the official implementation for MMEFace: Multi Model Ensemble learning for masked Face recogniti, which serves as final project for 2023 Spring CSE 666 course.
 
 Our presentation slides can be found at:https://docs.google.com/presentation/d/19fWdYpEYsqADUVlaaAtgxd1jBGpHGdlckR4PzneMoas/edit?usp=sharing
